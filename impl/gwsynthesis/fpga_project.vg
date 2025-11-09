@@ -1,0 +1,39 @@
+//
+//Written by GowinSynthesis
+//Tool Version "V1.9.11.03 Education"
+//Sun Nov  9 18:33:29 2025
+
+//Source file index table:
+//file0 "\C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project/src/top.v"
+`pragma protect begin_protected
+`pragma protect version="2.3"
+`pragma protect author="default"
+`pragma protect author_info="default"
+`pragma protect encrypt_agent="GOWIN"
+`pragma protect encrypt_agent_info="GOWIN Encrypt Version 2.3"
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=256)
+`pragma protect key_keyowner="GOWIN",key_keyname="GWK2023-09",key_method="rsa"
+`pragma protect key_block
+RAmIKggjDrs0auxSH0herEzx/Rgh9yenSvLCbHHbtlbz3MIVYFfM1uwHhLIF6N9zLOOjvDmKdiGO
+x7/EMK5sytnmAcRQxb5ek1ghZQJv/D99xqgX3Pvhzx5dB0lEJp7tvmdLcys9qJTz9R18tkNuC5ia
+Amu00ACWrTRXW43C/XH6wc4VcL8nK6CizBGSy4qqNmC7WUknm6ab/DmKoG1eM7+Kl8hSZqQRenNf
+IRu1mq3xNRqQD6wvuktwjs2FR2Ms7UVBXefRCxfO/mNrtzbrvNrYNadKNnTSKgkJonQtAivN8hB0
+4fhdEDn66Wc+XPg6PCkBK3ychwYKij+8wZ9Z5w==
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=544)
+`pragma protect data_keyowner="default-ip-vendor"
+`pragma protect data_keyname="default-ip-key"
+`pragma protect data_method="aes128-cfb"
+`pragma protect data_block
+mlZLXgB6HmqQ74z+fHRleUZ4PvUv5OURpf2IhR6AfeCYB3VsfmJnHciQ+AMtQAVZ1P+f7qqhKKn6
+BZZmPDfYnLXCia8VKIBVO0e8POrx8DNLCo2An5xJXJdPrPb1qY3kkKHPibycY1a9/zKrUJw1Z/4j
+UpH4u4q6AGFVtRQZWIR/GhQSTpuuFQqSRrzdY6M8YQmkOF+4dan0bHdhUIjf5DzjvvjWrvY8d5/Q
+fKliZfehzOKUx3rT7m1aa/0yeE4OO5cfHMapwuNlHK0/yxuoha7fuvFctVbJauQ1RhWe3uHpt9Fi
+gk1udJItyai/JXWKWZehoSKdLwOX5vbwe6p6u6cDoB8XfPSbrC37Bi6SZ31Hs+mGfpPuuHwn4kJy
+RwFpSOkFoRv+yNVKibskUnZ2SSxSeQpChjqMq+ohsKqaZAwncLKeQqrZfIIjiNC4VYMm20eLXRYh
+psjJkwqM0G5aDa7sW6nHVatFiLXAVhreL7W0moqYQttRFpUnCSJK/9uGeNTmpvE3qqKJOKCeTFf0
+MNsps8G83oPDd3hCRHqoIIi2u0b7R4L8v96HmFQPsei5gORnKJwnv1C5wpJHEcPuxPOVaolFdmbg
+tru5iFSt//NoI6wI1c1YY2J1CQQW0oOdymqMf+zysoAeqZo8oZVea7sFs41HiMr25Ii3w9Vhehbl
+5LTKfrOXSt/hj9zgMDBHyFSHb7ImzzRhwsKj9bdYVQ==
+`pragma protect end_protected
